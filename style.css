@@ -1,0 +1,38 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20pt;
+}
+
+h1 {
+    color:rgb(174, 133, 187);
+    font-size: 24pt;
+}
+
+h2 {
+    background-color:darkblue;
+    color: #a2f7f4;
+    font-size: 18pt;
+}
+
+.kuning {
+    color: rgb(250, 253, 39);
+}
+
+.kanan {
+    text-align: right;
+}
+
+#tengah {
+    text-align:center ;
+}
+
+.penuh {
+    width: 100%;
+    padding: 10px;
+    border: 3px red dotted;
+    margin: 5px;
+}
+
+.tingi {
+    height: 80px;
+}
